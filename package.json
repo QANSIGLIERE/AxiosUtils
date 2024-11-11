@@ -1,0 +1,30 @@
+{
+  "name": "qansigliere-axios-utils",
+  "version": "0.0.1",
+  "description": "This library is based on Javascript and it will contain some functions to make Rest API requests (GET / POST / PUT / PATCH / DELETE)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QANSIGLIERE/AxiosUtils.git"
+  },
+  "keywords": [
+    "qansigliere",
+    "axios",
+    "api",
+    "rest",
+    "api",
+    "get",
+    "post",
+    "put",
+    "patch"
+  ],
+  "author": "qansigliere@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QANSIGLIERE/AxiosUtils/issues"
+  },
+  "homepage": "https://github.com/QANSIGLIERE/AxiosUtils#readme"
+}
