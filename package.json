@@ -1,6 +1,6 @@
 {
   "name": "qansigliere-axios-utils",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "This library is based on Javascript and it will contain some functions to make Rest API requests (GET / POST / PUT / PATCH / DELETE)",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/QANSIGLIERE/AxiosUtils/issues"
   },
-  "homepage": "https://github.com/QANSIGLIERE/AxiosUtils#readme"
+  "homepage": "https://github.com/QANSIGLIERE/AxiosUtils#readme",
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
 }
