@@ -12,3 +12,7 @@ https://www.youtube.com/@QANSIGLIERE/
 Using npm `npm i qansigliere-axios-utils`
 
 ## How to use it
+
+-   `baseURL` - The consistent part or the root of your website's address, example: "https://YourDomain.com"
+
+### GET Method
