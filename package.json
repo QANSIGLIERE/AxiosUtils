@@ -1,6 +1,6 @@
 {
   "name": "qansigliere-axios-utils",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "This library is based on Javascript and it will contain some functions to make Rest API requests (GET / POST / PUT / PATCH / DELETE)",
   "main": "index.js",
   "scripts": {
