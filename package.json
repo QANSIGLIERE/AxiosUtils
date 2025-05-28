@@ -1,6 +1,6 @@
 {
   "name": "qansigliere-axios-utils",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "This library is based on Javascript and it will contain some functions to make Rest API requests (GET / POST / PUT / PATCH / DELETE)",
   "main": "index.js",
   "scripts": {
@@ -33,7 +33,7 @@
   "dependencies": {
     "axios": "^1.9.0",
     "form-data": "^4.0.2",
-    "qansigliere-launchdarkly-parse-link-from-response": "^0.0.3",
+    "qansigliere-launchdarkly-parse-link-from-response": "^0.0.4",
     "qansigliere-parse-link-from-headers": "^0.0.3"
   }
 }
